@@ -10,11 +10,11 @@
 
 __COMPOSITION :__
 
-* ./asset *Toutes les fichiers JPG, PNG...*
+* ./asset (*Toutes les fichiers JPG, PNG...*)
 
-* ./css *Tout les fichiers css*
+* ./css (*Tout les fichiers css*)
 
-* ./pages *Toutes les pâges annexes (à venir)*
+* ./pages (*Toutes les pâges annexes (à venir)*)
 
 `1. Programmation` `2. Experience` `3. Passions`
 
