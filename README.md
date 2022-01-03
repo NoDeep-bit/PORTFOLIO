@@ -18,7 +18,7 @@ __COMPOSITION :__
 
 `1. Programmation` `2. Experience` `3. Passions`
 
-* ./  *Ne contient que l'index*
+* ./  (*Ne contient que l'index*)
 
 
 
