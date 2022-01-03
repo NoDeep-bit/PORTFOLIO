@@ -10,7 +10,7 @@
 
 __COMPOSITION :__
 
-* ./asset *Toutes les images*
+* ./asset *Toutes les fichiers JPG, PNG...*
 
 * ./css *Tout les fichiers css*
 
