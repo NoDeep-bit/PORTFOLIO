@@ -180,3 +180,82 @@ __COMPOSITION :__
 
   </Html>
 
+#### Main CSS
+
+/*
+GLOBAL
+*/
+
+.heading-site{
+    text-align: center;
+    font-family: 'Exo 2', sans-serif;
+
+}
+
+/* 
+header
+*/
+
+.header {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    height: 70px;
+    line-height: 70px;
+    background-color:#1b1b1b;
+    position: fixed;
+    top: 0%;
+    z-index: 999;
+
+}
+
+.header .header-logo{
+    color: #ffffff;
+    font-family: 'Exo 2', sans-serif;
+    float: left;
+    margin-left: 30px;
+    
+    
+}
+
+.header .header-menu{
+    float: right;
+    margin-right: 30px;
+    top: 0%;
+    
+}
+
+.header .header-menu a{
+    margin-right: 15px;
+    color: #ffffff;
+    top: 0;
+
+    
+}
+
+.header .header-menu a:hover{
+    color: #16a085;
+}
+
+.banner .banner-content{
+    position: absolute;
+    width: 80%;
+    text-align: left;
+    top: 15%;
+    margin-left: 2%;
+
+}
+
+.banner .banner-content h1{
+    font-family: 'Montserrat', sans-serif;
+    color: #333333;
+}
+
+.banner .banner-content h2{
+    font-family: 'Exo 2', sans-serif;
+    color: #AAAAAA;
+}
+
+/*
+Menu déroulant
+*/
