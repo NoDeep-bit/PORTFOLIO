@@ -21,6 +21,18 @@ __COMPOSITION :__
 * ./  (*Ne contient que l'index*)
 
 
+__Police Utilisées__
+
+* Google Raleway
+
+* Google Montserrat
+
+* Google Exo+2
+
+__Script__
+
+* Kit Fontawesome
+
 
 
 ### Index
@@ -32,6 +44,8 @@ __COMPOSITION :__
 * *Séction à propos*
 
 * *Formulaire de Contact*
+
+
 
 <!DOCTYPE HTML>
     <Html lang="fr">
