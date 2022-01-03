@@ -6,7 +6,22 @@
 
 *HTML/CSS*
 
-__STRUCTURE :__
+__COMPOSITION :__
+
+* ./asset *Toutes les images*
+
+* ./css *Tout les fichiers css*
+
+* ./pages *Toutes les pâges annexes (à venir)*
+
+`1. Programmation` `2. Experience` `3. Passions`
+
+* ./  *Ne contient que l'index*
+
+
+
+
+### Index
 
 * *Header*
 
@@ -15,8 +30,6 @@ __STRUCTURE :__
 * *Séction à propos*
 
 * *Formulaire de Contact*
-
-### Index
 
 <!DOCTYPE HTML>
     <Html lang="fr">
